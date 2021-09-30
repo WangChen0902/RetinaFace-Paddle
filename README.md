@@ -5,4 +5,4 @@ This is a Paddle version of RetinaFace: Single-stage Dense Face Localisation in 
 
 测试：python test_widerface.py
 
-精度不够，就比正式提交比赛结果了
+精度不够，就不正式提交比赛结果了
